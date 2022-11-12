@@ -12,4 +12,8 @@ var add2 = function(number) {
 }
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
  
